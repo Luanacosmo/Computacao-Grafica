@@ -22,7 +22,3 @@ A câmera gira e inclina ao arrastar o botão direito. A roda aproxima/afasta. O
 | Esconderijo — baú | 2 | Oculta o avatar até sua próxima descoberta e desconta 5 de cada oponente |
 
 As posições são embaralhadas a cada partida. O conteúdo oculto não é desenhado. Após uma descoberta, o item e a marca de propriedade permanecem visíveis. Os diamantes exibem seu valor acima do modelo. Cada avatar tem cor, número e acessório próprios; o número desaparece junto com o avatar invisível. O ranking continua visível.
-7. Termine uma partida para demonstrar resultado, reinício e recordes.
-8. Explique a separação entre regras e interface e as decisões descritas acima.
-
-Para entregar: envie este ZIP completo ao Moodle e apresente ao professor, conforme o enunciado. Os comandos `py`/`python` devem usar o mesmo ambiente em que as dependências foram instaladas.
