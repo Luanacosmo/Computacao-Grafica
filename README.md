@@ -2,26 +2,6 @@
 
 Trabalho de Computação Gráfica em Python, PyOpenGL e Pygame.
 
-## Executar no Windows
-
-Instale Python 3.11 ou 3.12 e extraia o ZIP. Abra o terminal na pasta dos arquivos:
-
-```powershell
-py -m venv .venv
-.venv\Scripts\python -m pip install -r requirements.txt
-.venv\Scripts\python main.py
-```
-
-No Linux, com OpenGL e GLU disponíveis:
-
-```bash
-python3 -m venv .venv
-.venv/bin/python -m pip install -r requirements.txt
-.venv/bin/python main.py
-```
-
-No Ubuntu, se as bibliotecas gráficas não estiverem disponíveis: `sudo apt install libgl1 libglu1-mesa`. A janela usa 1280 × 800 pixels e requer OpenGL de compatibilidade 2.1 ou superior. No notebook, prefira executar diretamente no Windows com o driver da placa de vídeo atualizado. Não são necessárias imagens baixadas nem arquivos de áudio/modelos.
-
 ## Como jogar
 
 1. Escolha 2, 3 ou 4 jogadores no menu e clique em **Entrar no jardim**.
